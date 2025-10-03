@@ -11,8 +11,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
