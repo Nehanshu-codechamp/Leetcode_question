@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
