@@ -1,18 +1,30 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        freq_map ={}
+        # freq_map ={}
+        # for i in range(0,len(nums)):
+        #     if nums[i] in freq_map:
+        #         freq_map[nums[i]]+=1
+        #     else:
+        #         freq_map[nums[i]]=1
+
+        # max_count = 0
+        # majority = None
+
+        # for k, v in freq_map.items():
+        #     if v > max_count:
+        #         max_count = v
+        #         majority = k
+
+        # return majority        
+
+        freq = 0
+        ans = 0
         for i in range(0,len(nums)):
-            if nums[i] in freq_map:
-                freq_map[nums[i]]+=1
+            if freq == 0:
+                ans = nums[i]
+
+            if ans == nums[i]:
+                freq+=1
             else:
-                freq_map[nums[i]]=1
-
-        max_count = 0
-        majority = None
-
-        for k, v in freq_map.items():
-            if v > max_count:
-                max_count = v
-                majority = k
-
-        return majority        
+                freq-=1        
+        return ans        
