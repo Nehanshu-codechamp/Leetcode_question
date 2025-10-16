@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0283-move-zeroes) |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,9 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/2271-rearrange-array-elements-by-sign) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nehanshu-codechamp/Leetcode_question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
