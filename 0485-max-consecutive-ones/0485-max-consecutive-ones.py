@@ -10,7 +10,8 @@ class Solution:
             # ye tab run hoga jab 0 encounter karega, nums me 
             max_count = max(max_count,count)
             count =0   
-       return max(max_count,count) 
+        ans = max(max_count,count) 
+       return ans
         # ye jaruri hai kuki agar last me max no of 1 mil gaye toh else kabhi run nahi hoga  
        
         
